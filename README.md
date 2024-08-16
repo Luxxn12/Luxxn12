@@ -51,7 +51,7 @@ I'm a passionate Frontend Developer with over 1 years of experience in crafting 
  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"/>
  <img src="https://img.shields.io/badge/Zod-004088?style=for-the-badge&logo=zod&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badg&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ---
