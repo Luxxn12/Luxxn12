@@ -35,29 +35,29 @@ I'm a passionate Frontend Developer with over 1 years of experience in crafting 
 #### Languages | Frameworks | Tools
 
 <div align="center">
- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=logoColor=white&color=black"/>
- <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
- <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
- <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white"/>
- <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img src="https://img.shields.io/badge/Zustand-FFCC33?style=for-the-badge&logo=zustand&logoColor=white"/>
- <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"/>
- <img src="https://img.shields.io/badge/Zod-004088?style=for-the-badge&logo=zod&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-03192A?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-03192A?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-03192A?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-03192A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-03192A?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-03192A?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/Expo-03192A?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-03192A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Prisma-03192A?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/axios-03192A?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-03192A?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart%20js-03192A?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/daisyUI-03192A?style=for-the-badge&logo=daisyui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-03192A?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-03192A?style=for-the-badge&logo=firebase&logoColor=ffca28"/>
+  <img src="https://img.shields.io/badge/Postman-03192A?style=for-the-badge&logo=Postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-03192A?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-03192A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Zustand-03192A?style=for-the-badge&logo=zustand&logoColor=FFCC33"/>
+  <img src="https://img.shields.io/badge/Context_API-03192A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-03192A?style=for-the-badge&logo=react-hook-form&logoColor=EC5990"/>
+  <img src="https://img.shields.io/badge/Zod-03192A?style=for-the-badge&logo=zod&logoColor=004088"/>
+  <img src="https://img.shields.io/badge/-Figma-03192A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </div>
 
 ---
