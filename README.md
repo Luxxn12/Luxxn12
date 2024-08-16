@@ -1,6 +1,7 @@
 # Hi there, I'm Moh Alif Al Lukman 👋
 
-![Banner](/logo-icon.png)
+<img src="/logo-icon.png" alt="Banner" width="100" />
+
 <div align="center">
 <a href="https://www.linkedin.com/in/moh-alif-al-lukman/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
