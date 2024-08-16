@@ -16,11 +16,14 @@ style="height: 40px; width: 150px; margin: 10px;
 border-radius: 5px;"/>
 </a>
 </div>
+<div align="center">
+<h3>
+Frontend Developer | React.js | Next.js | React Native
+</h3>
+</div>
 
 
 ---
-**👨‍💻 Frontend Developer | React.js | Next.js | React Native**
-
 ### 🚀 About Me
 
 I'm a passionate Frontend Developer with over 1 years of experience in crafting sleek, responsive, and user-friendly web interfaces. My expertise lies in creating modern web applications using the latest technologies, and I'm always on the lookout for innovative solutions to enhance user experiences.
@@ -29,7 +32,7 @@ I'm a passionate Frontend Developer with over 1 years of experience in crafting 
 
 ### 🛠️ My Tech Stack
 
-#### Languages & Frameworks
+#### Languages | Frameworks | Tools
 
 <div align="center">
  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
