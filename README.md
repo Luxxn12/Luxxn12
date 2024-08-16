@@ -7,12 +7,12 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/moh-alif-al-lukman/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
-style="height: 40px; width: 150px; margin: 10px;
+style="height: 35px; width: 150px; margin: 10px;
 border-radius: 5px;"/>
 </a>
 <a href="https://www.instagram.com/codewithalif/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"
-style="height: 40px; width: 150px; margin: 10px;
+style="height: 35px; width: 150px; margin: 10px;
 border-radius: 5px;"/>
 </a>
 </div>
