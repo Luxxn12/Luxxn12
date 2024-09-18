@@ -26,7 +26,7 @@ Frontend Developer | React.js | Next.js | React Native
 ---
 ### 🚀 About Me
 
-I'm a passionate Frontend Developer with over 1 years of experience in crafting sleek, responsive, and user-friendly web interfaces. My expertise lies in creating modern web applications using the latest technologies, and I'm always on the lookout for innovative solutions to enhance user experiences.
+I'm a passionate Frontend Developer with more than 2 year of experience in crafting sleek, responsive, and user-friendly web interfaces. My expertise lies in creating modern web applications using the latest technologies, and I'm always on the lookout for innovative solutions to enhance user experiences.
 
 ---
 
