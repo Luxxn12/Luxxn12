@@ -99,7 +99,7 @@ I'm a passionate Frontend Developer with more than 2 year of experience in craft
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="width: 50%; border: none;">
-      <a href="https://github.com/devanada" style="display: block; height: 250px; width:500px">
+      <a href="https://github.com/Luxxn12" style="display: block; height: 250px; width:500px">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxxn12&layout=compact&langs_count=8&bg_color=03192A&title_color=fff&text_color=fff" alt="Language Stats"/>
       </a>
     </td>
