@@ -68,24 +68,24 @@ I'm a passionate Frontend Developer with more than 2 year of experience in craft
   <tr>
     <td align="center" style="width: 50%; border: none;">
     <a href="https://github.com/Luxxn12/absen-barcode" style="display: block; height: 150px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=FE-EMPOWER-HR&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=absen-barcode&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
       </a>
     </td>
     <td align="center" style="width: 50%; border: none;">
          <a href="https://github.com/Luxxn12/Realtime-POS-App" style="display: block; height: 150px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=library-app&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=Realtime-POS-App&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 50%; border: none;">
        <a href="https://github.com/Luxxn12/dashboard-iuran-desa" style="display: block; height: 150px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=hipmi-mobile&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=dashboard-iuran-desa&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
       </a>
     </td>
     <td align="center" style="width: 50%; border: none;">
       <a href="https://github.com/Luxxn12/AppReport" style="display: block; height: 150px;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=flutter-else-online-shop&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=AppReport&show_owner=true&bg_color=03192A&title_color=fff&text_color=fff&icon_color=fff" alt="Empower" style="max-width: 100%; height: 100%;"/>
       </a>
     </td>
   </tr>
