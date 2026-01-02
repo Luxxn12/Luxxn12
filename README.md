@@ -61,6 +61,8 @@ My expertise lies in creating modern web applications using the latest technolog
   <img src="https://img.shields.io/badge/daisyUI-03192A?style=for-the-badge&logo=daisyui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-03192A?style=for-the-badge&logo=Postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/-Figma-03192A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Redux-03192A?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/Flutter-03192A?style=for-the-badge&logo=flutter&logoColor=02569B"/>
 </div>
 
 ---
