@@ -29,7 +29,7 @@ I'm a passionate Software Developer with more than 3 year of experience in craft
 My expertise lies in creating modern web applications using the latest technologies, and I'm always on the lookout for innovative solutions to enhance user experiences.
 
 - ✅ Focus: **Frontend & Mobile Development**
-- ⚡ Stack: **React / Next.js / React Native**
+- ⚡ Stack: **React / Next.js / React Native / Flutter**
 - 🎯 Goal: **Build clean UI, fast UX, and scalable apps**
 - 🤝 Open to: **Collaboration, freelance, and open-source**
 
