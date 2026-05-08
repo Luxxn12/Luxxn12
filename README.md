@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h3>Frontend Developer | React.js | Next.js | React Native | Mobile Developer</h3>
+  <h3>Software Engineer (Frontend & Mobile) | Fullstack Experience</h3>
 </div>
 
 <div align="center">
@@ -25,13 +25,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Developer with more than 3 year of experience in crafting sleek, responsive, and user-friendly web interfaces.  
-My expertise lies in creating modern web applications using the latest technologies, and I'm always on the lookout for innovative solutions to enhance user experiences.
+Software Engineer (Frontend & Mobile) with Fullstack experience and 3+ years building production-grade web and mobile applications across insurance, HR, logistics, and public-sector domains.  
+Specialized in React, Next.js, TypeScript, React Native, and Flutter, with backend experience using Node.js, Express.js, and Prisma to deliver end-to-end solutions.
 
-- ✅ Focus: **Frontend & Mobile Development**
-- ⚡ Stack: **React / Next.js / React Native / Flutter**
-- 🎯 Goal: **Build clean UI, fast UX, and scalable apps**
-- 🤝 Open to: **Collaboration, freelance, and open-source**
+- ✅ Focus: **Clean architecture, performance, and maintainable code**
+- ⚡ Core Stack: **React / Next.js / TypeScript / React Native / Flutter**
+- 🧩 Backend Exposure: **Node.js / Express.js / Prisma / REST API**
+- 🤝 Work Style: **Cross-functional collaboration, Git-based workflows, async communication**
 
 ---
 
@@ -67,24 +67,6 @@ My expertise lies in creating modern web applications using the latest technolog
 
 ---
 
-## 🌟 Featured Projects
-
-| | |
-|---|---|
-| [![absen-barcode](https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=absen-barcode&show_owner=true&bg_color=03192A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/Luxxn12/absen-barcode) | [![Realtime-POS-App](https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=Realtime-POS-App&show_owner=true&bg_color=03192A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/Luxxn12/Realtime-POS-App) |
-| [![dashboard-iuran-desa](https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=dashboard-iuran-desa&show_owner=true&bg_color=03192A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/Luxxn12/dashboard-iuran-desa) | [![AppReport](https://github-readme-stats.vercel.app/api/pin/?username=Luxxn12&repo=AppReport&show_owner=true&bg_color=03192A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400)](https://github.com/Luxxn12/AppReport) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luxxn12&show_icons=true&bg_color=03192A&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxxn12&layout=compact&langs_count=8&bg_color=03192A&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -113,7 +95,7 @@ My expertise lies in creating modern web applications using the latest technolog
 
 - ⚡ **Landing Page / Company Profile** (modern, fast, responsive)
 - 🧩 **Dashboard Admin** (auth, charts, data table, role-based)
-- 📱 **Mobile App** (React Native / Expo)
+- 📱 **Mobile App** (React Native / Expo, Flutter)
 - 🛍️ **POS / Inventory** (real-time, reports, multi-user)
 
 ---
