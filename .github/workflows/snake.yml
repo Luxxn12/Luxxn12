@@ -1,9 +1,14 @@
 name: Generate contribution snake
 
 on:
-  # Refresh the animation weekly. It can also be run from the Actions tab.
+  # Generate immediately when this workflow changes, then refresh every day.
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/snake.yml
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,7 +20,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    concurrency:
+      group: contribution-snake
+      cancel-in-progress: false
+
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       # Generates light and dark SVGs from this profile's contribution graph.
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3

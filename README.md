@@ -1,36 +1,32 @@
 <div align="center">
-  <img src="./logo-icon.png" alt="Moh Alif Al Lukman logo" width="190" />
+  <img src="./logo-icon.png" alt="Moh Alif Al Lukman logo" width="150" />
 
   <h1>Moh Alif Al Lukman</h1>
   <p><strong>Software Engineer — Frontend &amp; Mobile</strong></p>
-  <p>Building reliable web and mobile products with React, Next.js, TypeScript, React Native, and Flutter.</p>
+  <p>Building reliable, user-focused web and mobile products with React, Next.js, TypeScript, React Native, and Flutter.</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Software+Engineer;Frontend+%26+Mobile+Developer;React+%2F+Next.js+%2F+React+Native;Building+Web+%26+Mobile+Products" alt="Software Engineer; Frontend and Mobile Developer; React, Next.js, React Native; Building Web and Mobile Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3600&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Engineer;Frontend+%26+Mobile+Developer;React+%2F+Next.js+%2F+React+Native;Building+Web+%26+Mobile+Products" alt="Software Engineer; Frontend and Mobile Developer; React, Next.js, React Native; Building Web and Mobile Products" />
 
   <p>
     <a href="https://www.linkedin.com/in/moh-alif-al-lukman/"><img src="https://img.shields.io/badge/LinkedIn-03192A?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.instagram.com/codewithalif/"><img src="https://img.shields.io/badge/Instagram-03192A?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+    <img src="https://img.shields.io/badge/Open_to-Remote_collaboration-03192A?style=flat-square&amp;logo=github&amp;logoColor=38BDF8" alt="Open to remote collaboration" />
     <img src="https://komarev.com/ghpvc/?username=Luxxn12&amp;label=Profile%20views&amp;color=03192A&amp;style=flat-square" alt="Profile views" />
   </p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luxxn12/Luxxn12/main/.github/assets/engineering-flow.svg" alt="Animated engineering flow" width="960" />
 </div>
 
 <!-- Add portfolio URL here when available -->
 
 ## About Me
 
-I am a Software Engineer focused on frontend and mobile development, with 3+ years of professional experience building production applications. My work has included insurance, HR, logistics, business, and public-sector internal systems.
+Frontend and mobile-focused Software Engineer with 3+ years of experience shipping production applications across insurance, HR, logistics, business, and public-sector systems.
 
-I enjoy turning product requirements into dependable interfaces and mobile experiences, while bringing enough fullstack experience to help deliver features end to end.
-
-- Focused on maintainable architecture, reusable components, performance, and type safety.
-- Experienced with clean UI implementation, API integration, authentication, and data-driven workflows.
-- Comfortable contributing across frontend, mobile, and backend layers when a product needs it.
-
-### A little more about me
-
-- Building web and mobile applications with a product-minded engineering approach.
-- Exploring scalable frontend architecture and practical fullstack development.
-- Main stack: TypeScript, React, Next.js, and React Native; also building with Flutter.
+- Maintainable architecture, reusable components, performance, and type safety.
+- React, Next.js, TypeScript, React Native, and Flutter.
 - Open to remote opportunities and international collaboration.
 
 ## Tech Stack
@@ -69,53 +65,63 @@ Node.js · Express.js · Prisma · REST APIs
   <tr>
     <td width="50%" valign="top">
       <strong>Frontend Engineering</strong><br />
-      Modern, responsive web applications built with React, Next.js, and TypeScript.
+      React, Next.js, and TypeScript.
     </td>
     <td width="50%" valign="top">
       <strong>Mobile Development</strong><br />
-      Cross-platform applications using React Native and Flutter.
+      React Native and Flutter.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>API Integration</strong><br />
-      REST APIs, authentication, form workflows, and data-driven interfaces.
+      REST APIs, authentication, and data workflows.
     </td>
     <td width="50%" valign="top">
       <strong>Fullstack Development</strong><br />
-      End-to-end features supported by Node.js, Prisma, and PostgreSQL.
+      Node.js, Prisma, and PostgreSQL.
     </td>
   </tr>
 </table>
 
-## What I Build
-
-- **Web applications** — responsive products, dashboards, internal tools, and business platforms.
-- **Mobile applications** — cross-platform experiences with React Native and Flutter.
-- **Business systems** — POS, inventory, management, and workflow applications.
-- **Fullstack products** — applications with authentication, APIs, databases, and role-based access.
-
 ## Featured Projects
 
-<!--
-Add up to four projects here when their repository and/or live-demo URLs are ready.
-
-### Project Name
-
-Short description of the problem, solution, and your contribution.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-[Repository](https://github.com/Luxxn12/REPOSITORY) · [Live Demo](https://example.com)
--->
-
-Selected projects will be added here as public repositories and live demos become available.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>HRIS Employee Management</strong><br />
+      Employee management and organization-chart workflows.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code><br /><br />
+      <a href="https://github.com/Luxxn12/hris-employee">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Transparansi Griya Chandra Resident</strong><br />
+      Public dashboard with protected admin workflows.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code><br /><br />
+      <a href="https://github.com/Luxxn12/transparansi-desa">Repository</a> · <a href="https://sistemdesa.mohalif.my.id/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Altech UI</strong><br />
+      React component library and documentation site.<br /><br />
+      <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code><br /><br />
+      <a href="https://github.com/Luxxn12/altech-ui">Repository</a> · <a href="https://altech-ui.vercel.app">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Altech UI Flutter</strong><br />
+      Flutter UI components, Material 3, and design tokens.<br /><br />
+      <code>Flutter</code> <code>Dart</code> <code>Material 3</code><br /><br />
+      <a href="https://github.com/Luxxn12/altech_ui_flutter">Repository</a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Activity
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Luxxn12&amp;show_icons=true&amp;hide_border=true&amp;bg_color=03192A&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;icon_color=38BDF8" alt="GitHub statistics for Luxxn12" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Luxxn12&amp;hide_border=true&amp;background=03192A&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=CBD5E1&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;stroke=03192A" alt="GitHub contribution streak for Luxxn12" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Luxxn12&amp;hide_border=true&amp;background=03192A&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=38BDF8&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;stroke=03192A" alt="GitHub contribution streak for Luxxn12" />
 </div>
 
 <div align="center">
@@ -134,12 +140,10 @@ Selected projects will be added here as public repositories and live demos becom
 
 ## Let's Connect
 
-I'm always interested in connecting with other engineers, discussing thoughtful products, and exploring software engineering opportunities.
+Always open to connecting with engineers and product teams worldwide.
 
 [<img src="https://img.shields.io/badge/Connect_on_LinkedIn-03192A?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />](https://www.linkedin.com/in/moh-alif-al-lukman/)
 
-You can also find me on [Instagram](https://www.instagram.com/codewithalif/).
-
 <div align="center">
-  <sub>Thanks for visiting my profile.</sub>
+  <sub>Thanks for visiting.</sub>
 </div>
