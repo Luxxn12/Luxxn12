@@ -39,31 +39,31 @@ Frontend and mobile-focused Software Engineer with 3+ years of experience buildi
   <img src="https://raw.githubusercontent.com/Luxxn12/Luxxn12/main/.github/assets/tech-pulse.svg?v=20260819-3" alt="Animated core technology pulse" width="960" />
 </div>
 
-## Featured Projects
+## Selected Portfolio Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>HRIS Employee Management</strong><br />
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma&amp;theme=dark&amp;perline=4" alt="Next.js, TypeScript, PostgreSQL, and Prisma" /><br /><br />
-      <a href="https://github.com/Luxxn12/hris-employee">Repository</a>
+      <strong>Auto POS</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind&amp;theme=dark&amp;perline=2" alt="Next.js and Tailwind CSS" /><br /><br />
+      <a href="https://auto-pos-eight.vercel.app/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <strong>Transparansi Griya Chandra Resident</strong><br />
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&amp;theme=dark&amp;perline=3" alt="Next.js, TypeScript, and Tailwind CSS" /><br /><br />
-      <a href="https://github.com/Luxxn12/transparansi-desa">Repository</a> · <a href="https://sistemdesa.mohalif.my.id/">Live Demo</a>
+      <strong>Service Microwave Denpasar</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind&amp;theme=dark&amp;perline=2" alt="Next.js and Tailwind CSS" /><br /><br />
+      <a href="https://github.com/Luxxn12/service-microwave-denpasar">Repository</a> · <a href="https://www.servicemicrowavedenpasar.com/">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Altech UI</strong><br />
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind&amp;theme=dark&amp;perline=3" alt="React, TypeScript, and Tailwind CSS" /><br /><br />
-      <a href="https://github.com/Luxxn12/altech-ui">Repository</a> · <a href="https://altech-ui.vercel.app">Live Demo</a>
+      <a href="https://github.com/Luxxn12/altech-ui">Repository</a> · <a href="https://altech-ui.mohalif.my.id/">Docs</a>
     </td>
     <td width="50%" valign="top">
-      <strong>Altech UI Flutter</strong><br />
-      <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark&amp;perline=2" alt="Flutter and Dart" /><br /><br />
-      <a href="https://github.com/Luxxn12/altech_ui_flutter">Repository</a>
+      <strong>Workora</strong><br />
+      <img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark&amp;perline=1" alt="Flutter" /><br /><br />
+      <a href="https://www.mohalif.my.id/#projects">View in Portfolio</a>
     </td>
   </tr>
 </table>
