@@ -50,12 +50,14 @@
 
 ## Selected Portfolio Work
 
+### Web &amp; Systems
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Auto POS</strong><br />
+      <strong>Altech Software &amp; Digital Solution</strong><br />
       <img src="https://skillicons.dev/icons?i=nextjs,tailwind&amp;theme=dark&amp;perline=2" alt="Next.js and Tailwind CSS" /><br /><br />
-      <a href="https://auto-pos-eight.vercel.app/">Live Demo</a>
+      <a href="https://altech.mohalif.my.id/">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <strong>Service Microwave Denpasar</strong><br />
@@ -65,14 +67,91 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <strong>Auto POS</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind&amp;theme=dark&amp;perline=2" alt="Next.js and Tailwind CSS" /><br /><br />
+      <a href="https://auto-pos-eight.vercel.app/">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>POS System Web App</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase&amp;theme=dark&amp;perline=3" alt="Next.js, Tailwind CSS, and Supabase" /><br /><br />
+      <a href="https://pos-system.mohalif.my.id/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Realtime POS App</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase&amp;theme=dark&amp;perline=3" alt="Next.js, Tailwind CSS, and Supabase" /><br /><br />
+      <a href="https://realtime-pos-app.vercel.app/login">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Absensi Barcode &amp; Face</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase&amp;theme=dark&amp;perline=3" alt="Next.js, Tailwind CSS, and Supabase" /><br /><br />
+      <a href="https://absen-barcode-indo.vercel.app/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Empower HR</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,tailwind&amp;theme=dark&amp;perline=2" alt="React and Tailwind CSS" /><br /><br />
+      <a href="https://empower-hr.vercel.app/">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Iuran Desa Apps</strong><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,prisma&amp;theme=dark&amp;perline=3" alt="Next.js, Tailwind CSS, and Prisma" /><br /><br />
+      <a href="https://iuran-desa-apps.vercel.app/login">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+### Mobile &amp; Libraries
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Workora</strong><br />
+      <img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark&amp;perline=1" alt="Flutter" /><br /><br />
+      <a href="https://www.mohalif.my.id/#projects">View in Portfolio</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>SmartPOS</strong><br />
+      <img src="https://skillicons.dev/icons?i=flutter,supabase&amp;theme=dark&amp;perline=2" alt="Flutter and Supabase" /><br /><br />
+      <a href="https://www.mohalif.my.id/#projects">View in Portfolio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Jasmin Apps</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,ts&amp;theme=dark&amp;perline=2" alt="React Native and TypeScript" /><br /><br />
+      <a href="https://drive.google.com/file/d/1Beq9PTss4GS6cZo5SDxQs_p5QREFiuRa/view?usp=sharing">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Reporting Money Apps</strong><br />
+      <img src="https://skillicons.dev/icons?i=expo,react&amp;theme=dark&amp;perline=2" alt="Expo and React Native" /><br /><br />
+      <a href="https://github.com/Luxxn12/AppReport">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Altech UI Flutter</strong><br />
+      <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark&amp;perline=2" alt="Flutter and Dart" /><br /><br />
+      <a href="https://pub.dev/packages/altech_ui_flutter">Pub.dev</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Altech Run API Inspector</strong><br />
+      <img src="https://skillicons.dev/icons?i=react,ts&amp;theme=dark&amp;perline=2" alt="React Native and TypeScript" /><br /><br />
+      <a href="https://www.npmjs.com/package/altech-run-api-inspector">NPM</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong>Altech UI</strong><br />
       <img src="https://skillicons.dev/icons?i=react,ts,tailwind&amp;theme=dark&amp;perline=3" alt="React, TypeScript, and Tailwind CSS" /><br /><br />
       <a href="https://github.com/Luxxn12/altech-ui">Repository</a> · <a href="https://altech-ui.mohalif.my.id/">Docs</a>
     </td>
     <td width="50%" valign="top">
-      <strong>Workora</strong><br />
-      <img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark&amp;perline=1" alt="Flutter" /><br /><br />
-      <a href="https://www.mohalif.my.id/#projects">View in Portfolio</a>
+      <strong>Explore More</strong><br />
+      <img src="https://skillicons.dev/icons?i=github&amp;theme=dark&amp;perline=1" alt="GitHub" /><br /><br />
+      <a href="https://www.mohalif.my.id/#projects">Full Portfolio</a>
     </td>
   </tr>
 </table>
