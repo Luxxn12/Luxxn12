@@ -23,66 +23,21 @@
 
 ## About Me
 
-Frontend and mobile-focused Software Engineer with 3+ years of experience shipping production applications across insurance, HR, logistics, business, and public-sector systems.
+Frontend and mobile-focused Software Engineer with 3+ years of experience building reliable products with React, Next.js, TypeScript, React Native, and Flutter.
 
-- Maintainable architecture, reusable components, performance, and type safety.
-- React, Next.js, TypeScript, React Native, and Flutter.
-- Open to remote opportunities and international collaboration.
+## Core Stack
 
-## Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,shadcn&amp;theme=dark&amp;perline=7" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, and shadcn/ui" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=expo,flutter,nodejs,express,prisma,postgres,supabase,firebase&amp;theme=dark&amp;perline=8" alt="Expo, Flutter, Node.js, Express.js, Prisma, PostgreSQL, Supabase, and Firebase" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark&amp;perline=5" alt="Git, GitHub, Postman, Figma, and VS Code" />
+</div>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,shadcn&amp;theme=dark&amp;perline=7" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS, and shadcn/ui" />
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react,expo,flutter&amp;theme=dark&amp;perline=3" alt="React Native, Expo, and Flutter" />
-
-React Native · Expo · Flutter
-
-### State &amp; Forms
-
-Redux Toolkit · Zustand · React Query · React Hook Form · Zod
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&amp;theme=dark&amp;perline=3" alt="Node.js, Express.js, and Prisma" />
-
-Node.js · Express.js · Prisma · REST APIs
-
-### Database &amp; Services
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&amp;theme=dark&amp;perline=3" alt="PostgreSQL, Supabase, and Firebase" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark&amp;perline=5" alt="Git, GitHub, Postman, Figma, and VS Code" />
-
-## What I Work With
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Frontend Engineering</strong><br />
-      React, Next.js, and TypeScript.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Mobile Development</strong><br />
-      React Native and Flutter.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>API Integration</strong><br />
-      REST APIs, authentication, and data workflows.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fullstack Development</strong><br />
-      Node.js, Prisma, and PostgreSQL.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luxxn12/Luxxn12/main/.github/assets/tech-pulse.svg?v=20260819-3" alt="Animated core technology pulse" width="960" />
+</div>
 
 ## Featured Projects
 
@@ -90,28 +45,24 @@ Node.js · Express.js · Prisma · REST APIs
   <tr>
     <td width="50%" valign="top">
       <strong>HRIS Employee Management</strong><br />
-      Employee management and organization-chart workflows.<br /><br />
-      <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code><br /><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma&amp;theme=dark&amp;perline=4" alt="Next.js, TypeScript, PostgreSQL, and Prisma" /><br /><br />
       <a href="https://github.com/Luxxn12/hris-employee">Repository</a>
     </td>
     <td width="50%" valign="top">
       <strong>Transparansi Griya Chandra Resident</strong><br />
-      Public dashboard with protected admin workflows.<br /><br />
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code><br /><br />
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&amp;theme=dark&amp;perline=3" alt="Next.js, TypeScript, and Tailwind CSS" /><br /><br />
       <a href="https://github.com/Luxxn12/transparansi-desa">Repository</a> · <a href="https://sistemdesa.mohalif.my.id/">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Altech UI</strong><br />
-      React component library and documentation site.<br /><br />
-      <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind&amp;theme=dark&amp;perline=3" alt="React, TypeScript, and Tailwind CSS" /><br /><br />
       <a href="https://github.com/Luxxn12/altech-ui">Repository</a> · <a href="https://altech-ui.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <strong>Altech UI Flutter</strong><br />
-      Flutter UI components, Material 3, and design tokens.<br /><br />
-      <code>Flutter</code> <code>Dart</code> <code>Material 3</code><br /><br />
+      <img src="https://skillicons.dev/icons?i=flutter,dart&amp;theme=dark&amp;perline=2" alt="Flutter and Dart" /><br /><br />
       <a href="https://github.com/Luxxn12/altech_ui_flutter">Repository</a>
     </td>
   </tr>
@@ -131,16 +82,10 @@ Node.js · Express.js · Prisma · REST APIs
 ## Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luxxn12/Luxxn12/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luxxn12/Luxxn12/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Luxxn12/Luxxn12/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Luxxn12/Luxxn12/output/github-contribution-grid-snake-dark.svg?v=20260819-2" alt="Animated GitHub contribution snake" width="880" />
 </div>
 
 ## Let's Connect
-
-Always open to connecting with engineers and product teams worldwide.
 
 [<img src="https://img.shields.io/badge/Connect_on_LinkedIn-03192A?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />](https://www.linkedin.com/in/moh-alif-al-lukman/)
 

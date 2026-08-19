@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 152" role="img" aria-labelledby="title description">
+  <title id="title">Animated core technology pulse</title>
+  <desc id="description">Four core technology cards pulse in sequence: React, Next.js, React Native, and Flutter.</desc>
+  <rect width="960" height="152" rx="20" fill="#03192A" />
+  <path d="M130 76H830" stroke="#38BDF8" stroke-opacity=".24" stroke-width="2" stroke-dasharray="5 10">
+    <animate attributeName="stroke-dashoffset" values="0;-30" dur="1.4s" repeatCount="indefinite" />
+  </path>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" text-anchor="middle">
+    <g transform="translate(120 76)">
+      <rect x="-86" y="-38" width="172" height="76" rx="14" fill="#0B2940" stroke="#38BDF8" stroke-opacity=".56" />
+      <circle r="8" fill="#38BDF8"><animate attributeName="r" values="6;10;6" dur="2.8s" repeatCount="indefinite" /></circle>
+      <text y="25" fill="#E0F2FE" font-size="15">REACT</text>
+    </g>
+    <g transform="translate(360 76)">
+      <rect x="-86" y="-38" width="172" height="76" rx="14" fill="#0B2940" stroke="#38BDF8" stroke-opacity=".56" />
+      <circle r="8" fill="#38BDF8"><animate attributeName="r" values="6;10;6" dur="2.8s" begin="-.7s" repeatCount="indefinite" /></circle>
+      <text y="25" fill="#E0F2FE" font-size="15">NEXT.JS</text>
+    </g>
+    <g transform="translate(600 76)">
+      <rect x="-86" y="-38" width="172" height="76" rx="14" fill="#0B2940" stroke="#38BDF8" stroke-opacity=".56" />
+      <circle r="8" fill="#38BDF8"><animate attributeName="r" values="6;10;6" dur="2.8s" begin="-1.4s" repeatCount="indefinite" /></circle>
+      <text y="25" fill="#E0F2FE" font-size="13">REACT NATIVE</text>
+    </g>
+    <g transform="translate(840 76)">
+      <rect x="-86" y="-38" width="172" height="76" rx="14" fill="#0B2940" stroke="#38BDF8" stroke-opacity=".56" />
+      <circle r="8" fill="#38BDF8"><animate attributeName="r" values="6;10;6" dur="2.8s" begin="-2.1s" repeatCount="indefinite" /></circle>
+      <text y="25" fill="#E0F2FE" font-size="15">FLUTTER</text>
+    </g>
+  </g>
+</svg>
