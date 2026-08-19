@@ -2,8 +2,8 @@
   <img src="./logo-icon.png" alt="Moh Alif Al Lukman logo" width="150" />
 
   <h1>Moh Alif Al Lukman</h1>
-  <p><strong>Software Engineer — Frontend &amp; Mobile</strong></p>
-  <p>Building reliable, user-focused web and mobile products with React, Next.js, TypeScript, React Native, and Flutter.</p>
+  <p><strong>Software Engineer — Frontend &amp; Mobile · Fullstack Experience</strong></p>
+  <p>Building production-grade web and mobile applications that are responsive, scalable, and maintainable.</p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3600&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Engineer;Frontend+%26+Mobile+Developer;React+%2F+Next.js+%2F+React+Native;Building+Web+%26+Mobile+Products" alt="Software Engineer; Frontend and Mobile Developer; React, Next.js, React Native; Building Web and Mobile Products" />
 
@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/Open_to-Remote_collaboration-03192A?style=flat-square&amp;logo=github&amp;logoColor=38BDF8" alt="Open to remote collaboration" />
     <img src="https://komarev.com/ghpvc/?username=Luxxn12&amp;label=Profile%20views&amp;color=03192A&amp;style=flat-square" alt="Profile views" />
   </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Currently-Frontend_Engineer_%40_IFG-03192A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=38BDF8" alt="Currently Frontend Engineer at Indonesia Financial Group" />
+    <img src="https://img.shields.io/badge/Experience-3%2B_years-03192A?style=flat-square&amp;logo=typescript&amp;logoColor=38BDF8" alt="More than three years of experience" />
+  </p>
 </div>
 
 <div align="center">
@@ -21,9 +26,13 @@
 
 <!-- Add portfolio URL here when available -->
 
-## About Me
+## Profile
 
-Frontend and mobile-focused Software Engineer with 3+ years of experience building reliable products with React, Next.js, TypeScript, React Native, and Flutter.
+<div align="center">
+  <img src="https://img.shields.io/badge/Web-Responsive_%26_scalable-03192A?style=flat-square&amp;logo=react&amp;logoColor=38BDF8" alt="Responsive and scalable web applications" />
+  <img src="https://img.shields.io/badge/Mobile-Production--ready-03192A?style=flat-square&amp;logo=react&amp;logoColor=38BDF8" alt="Production-ready mobile applications" />
+  <img src="https://img.shields.io/badge/Focus-Maintainable_systems-03192A?style=flat-square&amp;logo=git&amp;logoColor=38BDF8" alt="Maintainable systems" />
+</div>
 
 ## Core Stack
 
