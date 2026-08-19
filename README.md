@@ -42,6 +42,17 @@
   <img src="https://skillicons.dev/icons?i=expo,flutter,nodejs,express,prisma,postgres,supabase,firebase&amp;theme=dark&amp;perline=8" alt="Expo, Flutter, Node.js, Express.js, Prisma, PostgreSQL, Supabase, and Firebase" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark&amp;perline=5" alt="Git, GitHub, Postman, Figma, and VS Code" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-03192A?style=flat-square&amp;logo=redux&amp;logoColor=764ABC" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-03192A?style=flat-square&amp;logo=zustand&amp;logoColor=FFCC33" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Axios-03192A?style=flat-square&amp;logo=axios&amp;logoColor=5A29E4" alt="Axios" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-03192A?style=flat-square&amp;logo=reacthookform&amp;logoColor=EC5990" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-03192A?style=flat-square&amp;logo=zod&amp;logoColor=3068B7" alt="Zod" />
+  <img src="https://img.shields.io/badge/Yup-03192A?style=flat-square&amp;logoColor=FFFFFF" alt="Yup" />
+  <img src="https://img.shields.io/badge/Jest-03192A?style=flat-square&amp;logo=jest&amp;logoColor=C21325" alt="Jest" />
+  <img src="https://img.shields.io/badge/REST_API-03192A?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="REST API" />
+  <img src="https://img.shields.io/badge/Framer_Motion-03192A?style=flat-square&amp;logo=framer&amp;logoColor=0055FF" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Mantine-03192A?style=flat-square&amp;logo=mantine&amp;logoColor=339AF0" alt="Mantine" />
 </div>
 
 <div align="center">
